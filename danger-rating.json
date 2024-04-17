@@ -36,6 +36,28 @@
                         ]
                     }
                 ]
+            },
+            {
+                "segmentation-type": "province",
+                "segmentation": "San José",
+                "crime-type-ratings": {
+                    "assault": {
+                        "2023": 5196
+                    }
+                },
+                "inner-segments": [
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "San José",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 3011,
+                                "2023": 3428
+                            }
+                        },
+                        "inner-segments": []
+                    }
+                ]
             }
         ]
     }
