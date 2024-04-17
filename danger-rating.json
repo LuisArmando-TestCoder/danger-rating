@@ -4,12 +4,16 @@
         "segmentation": "Costa Rica",
         "crime-type-ratings": {},
         "inner-segments": [
+            //San Jose
             {
                 "segmentation-type": "province",
                 "segmentation": "San José",
                 "crime-type-ratings": {
                     "assault": {
                         "2023": 5196
+                    },
+                    "housing-assault": {
+                        "2023": 120
                     }
                 },
                 "inner-segments": [
@@ -20,6 +24,10 @@
                             "assault": {
                                 "2022": 3011,
                                 "2023": 3428
+                            },
+                            "housing-assault": {
+                                "2022": 33,
+                                "2023": 30
                             }
                         },
                         "inner-segments": [
@@ -70,6 +78,10 @@
                                     "assault": {
                                         "2022": 340,
                                         "2023": 308
+                                    },
+                                    "housing-assault": {
+                                        "2022": 10,
+                                        "2023": 7
                                     }
                                 }
                             },
@@ -114,15 +126,41 @@
                                 "2023": 243
                             }
                         }
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Curridabat",
+                        "crime-type-ratings": {
+                            "housing-assault": {
+                                "2022": 5,
+                                "2023": 16
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Curridabat",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 2,
+                                        "2023": 8
+                                    }
+                                }
+                            }
+                        ]
                     }
                 ]
             },
+            //Alajuela
             {
                 "segmentation-type": "province",
                 "segmentation": "Alajuela",
                 "crime-type-ratings": {
                     "assault": {
                         "2023": 1227
+                    },
+                    "housing-assault": {
+                        "2023": 62
                     }
                 },
                 "inner-segments": [
@@ -133,6 +171,10 @@
                             "assault": {
                                 "2022": 700,
                                 "2023": 663
+                            },
+                            "housing-assault": {
+                                "2022": 25,
+                                "2023": 26
                             }
                         },
                         "inner-segments": [
@@ -150,12 +192,16 @@
                     }
                 ]
             },
+            //Limon
             {
                 "segmentation-type": "province",
                 "segmentation": "Limón",
                 "crime-type-ratings": {
                     "assault": {
                         "2023": 952
+                    },
+                    "housing-assault": {
+                        "2023": 108
                     }
                 },
                 "inner-segments": [
@@ -166,17 +212,123 @@
                             "assault": {
                                 "2022": 265,
                                 "2023": 258
+                            },
+                            "housing-assault": {
+                                "2022": 23,
+                                "2023": 22
                             }
-                        }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Limón",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 15,
+                                        "2023": 8
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Matama",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 4,
+                                        "2023": 8
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Pococí",
+                        "crime-type-ratings": {
+                            "housing-assault": {
+                                "2022": 25,
+                                "2023": 28
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Jiménez",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 5,
+                                        "2023": 7
+                                    }
+                                } 
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Rita",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 7,
+                                        "2023": 7
+                                    }
+                                } 
+                            }
+                        ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Guácimo",
+                        "crime-type-ratings": {
+                            "housing-assault": {
+                                "2022": 16,
+                                "2023": 22
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Guácimo",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 8,
+                                        "2023": 17
+                                    }
+                                } 
+                            }
+                        ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Matina",
+                        "crime-type-ratings": {
+                            "housing-assault": {
+                                "2022": 30,
+                                "2023": 18
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Batán",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 8,
+                                        "2023": 8
+                                    }
+                                }
+                            }
+                        ]
                     }
                 ]
             },
+            //Heredia
             {
                 "segmentation-type": "province",
                 "segmentation": "Heredia",
                 "crime-type-ratings": {
                     "assault": {
                         "2023": 892
+                    },
+                    "housing-assault": {
+                        "2023": 33
                     }
                 },
                 "inner-segments": [
@@ -204,12 +356,16 @@
                     }
                 ]
             },
+            //Cartago
             {
                 "segmentation-type": "province",
                 "segmentation": "Cartago",
                 "crime-type-ratings": {
                     "assault": {
                         "2023": 867
+                    },
+                    "housing-assault": {
+                        "2023": 23
                     }
                 },
                 "inner-segments": [
@@ -235,13 +391,18 @@
                     }
                 ]
             },
+            //Puntarenas
             {
                 "segmentation-type": "province",
                 "segmentation": "Puntarenas",
                 "crime-type-ratings": {
                     "assault": {
                         "2023": 736
+                    },
+                    "housing-assault": {
+                        "2023": 71
                     }
+
                 },
                 "inner-segments": [
                     {
@@ -251,17 +412,65 @@
                             "assault": {
                                 "2022": 263,
                                 "2023": 237
+                            },
+                            "housing-assault": {
+                                "2022": 19,
+                                "2023": 14
                             }
                         }
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Parrita",
+                        "crime-type-ratings": {
+                            "housing-assault": {
+                                "2022": 4,
+                                "2023": 18
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Parrita",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 4,
+                                        "2023": 18
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Quepos",
+                        "crime-type-ratings": {
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Quepos",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 8,
+                                        "2023": 17
+                                    }
+                                }
+                            }
+                        ]
                     }
                 ]
             },
+            //Guanacaste
             {
                 "segmentation-type": "province",
                 "segmentation": "Guanacaste",
                 "crime-type-ratings": {
                     "assault": {
                         "2023": 691
+                    },
+                    "housing-assault": {
+                        "2023": 43
                     }
                 },
                 "inner-segments": [
@@ -286,6 +495,16 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Santa Cruz",
+                        "crime-type-ratings": {
+                            "housing-assault": {
+                                "2022": 6,
+                                "2023": 15
+                            }
+                        }
                     }
                 ]
             }
