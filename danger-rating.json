@@ -6,6 +6,173 @@
         "inner-segments": [
             {
                 "segmentation-type": "province",
+                "segmentation": "San José",
+                "crime-type-ratings": {
+                    "assault": {
+                        "2023": 5196
+                    }
+                },
+                "inner-segments": [
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "San José",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 3011,
+                                "2023": 3428
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Hospital",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 594,
+                                        "2023": 617
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Merced",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 485,
+                                        "2023": 612
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Catedral",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 449,
+                                        "2023": 585
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Carmen",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 290,
+                                        "2023": 335
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Pavas",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 340,
+                                        "2023": 308
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Hatillo",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 200,
+                                        "2023": 285
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "San Sebastián",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 195,
+                                        "2023": 222
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Desamparados",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 367,
+                                "2023": 347
+                            }
+                        }
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Goicoechea",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 378,
+                                "2023": 243
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "segmentation-type": "province",
+                "segmentation": "Alajuela",
+                "crime-type-ratings": {
+                    "assault": {
+                        "2023": 1227
+                    }
+                },
+                "inner-segments": [
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Alajuela",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 700,
+                                "2023": 663
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Alajuela",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 274,
+                                        "2023": 340
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "segmentation-type": "province",
+                "segmentation": "Limón",
+                "crime-type-ratings": {
+                    "assault": {
+                        "2023": 952
+                    }
+                },
+                "inner-segments": [
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Limón",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 265,
+                                "2023": 258
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "segmentation-type": "province",
                 "segmentation": "Heredia",
                 "crime-type-ratings": {
                     "assault": {
@@ -39,23 +206,86 @@
             },
             {
                 "segmentation-type": "province",
-                "segmentation": "San José",
+                "segmentation": "Cartago",
                 "crime-type-ratings": {
                     "assault": {
-                        "2023": 5196
+                        "2023": 867
                     }
                 },
                 "inner-segments": [
                     {
                         "segmentation-type": "canton",
-                        "segmentation": "San José",
+                        "segmentation": "Cartago",
                         "crime-type-ratings": {
                             "assault": {
-                                "2022": 3011,
-                                "2023": 3428
+                                "2022": 426,
+                                "2023": 422
+                            }
+                        }
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "La Unión",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 193,
+                                "2023": 199
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "segmentation-type": "province",
+                "segmentation": "Puntarenas",
+                "crime-type-ratings": {
+                    "assault": {
+                        "2023": 736
+                    }
+                },
+                "inner-segments": [
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Puntarenas",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 263,
+                                "2023": 237
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "segmentation-type": "province",
+                "segmentation": "Guanacaste",
+                "crime-type-ratings": {
+                    "assault": {
+                        "2023": 691
+                    }
+                },
+                "inner-segments": [
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Liberia",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 265,
+                                "2023": 289
                             }
                         },
-                        "inner-segments": []
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Liberia",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 249,
+                                        "2023": 279
+                                    }
+                                }
+                            }
+                        ]
                     }
                 ]
             }
