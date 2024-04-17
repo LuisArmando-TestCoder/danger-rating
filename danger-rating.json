@@ -1,0 +1,42 @@
+[
+    {
+        "segmentation-type": "country",
+        "segmentation": "Costa Rica",
+        "crime-type-ratings": {},
+        "inner-segments": [
+            {
+                "segmentation-type": "province",
+                "segmentation": "Heredia",
+                "crime-type-ratings": {
+                    "assault": {
+                        "2023": 892
+                    }
+                },
+                "inner-segments": [
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Heredia",
+                        "crime-type-ratings": {
+                            "assault": {
+                                "2022": 447,
+                                "2023": 451
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Heredia",
+                                "crime-type-ratings": {
+                                    "assault": {
+                                        "2022": 189,
+                                        "2023": 212
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
