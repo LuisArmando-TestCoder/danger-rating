@@ -26,6 +26,9 @@
                     },
                     "container-theft": {
                         "2023": 7
+                    },
+                    "vehicle-tag": {
+                        "2023": 1340
                     }
                 },
                 "inner-segments": [
@@ -52,6 +55,10 @@
                             "vehicle-theft": {
                                 "2022": 415,
                                 "2023": 449
+                            },
+                            "vehicle-tag": {
+                                "2022": 678,
+                                "2023": 589
                             }
                         },
                         "inner-segments": [
@@ -62,6 +69,10 @@
                                     "assault": {
                                         "2022": 594,
                                         "2023": 617
+                                    },
+                                    "vehicle-tag": {
+                                        "2022": 77,
+                                        "2023": 61
                                     }
                                 }
                             },
@@ -86,6 +97,10 @@
                                     "building-theft": {
                                         "2022": 59,
                                         "2023": 62
+                                    },
+                                    "vehicle-tag": {
+                                        "2022": 100,
+                                        "2023": 102
                                     }
                                 }
                             },
@@ -96,6 +111,10 @@
                                     "assault": {
                                         "2022": 290,
                                         "2023": 335
+                                    },
+                                    "vehicle-tag": {
+                                        "2022": 92,
+                                        "2023": 82
                                     }
                                 }
                             },
@@ -114,6 +133,10 @@
                                     "vehicle-theft": {
                                         "2022": 77,
                                         "2023": 85
+                                    },
+                                    "vehicle-tag": {
+                                        "2022": 78,
+                                        "2023": 67
                                     }
                                 }
                             },
@@ -180,6 +203,10 @@
                             "vehicle-theft": {
                                 "2022": 97,
                                 "2023": 88
+                            },
+                            "vehicle-tag": {
+                                "2022": 93,
+                                "2023": 98
                             }
                         }
                     },
@@ -200,6 +227,10 @@
                                     "housing-assault": {
                                         "2022": 2,
                                         "2023": 8
+                                    },
+                                    "vehicle-tag": {
+                                        "2022": 111,
+                                        "2023": 70
                                     }
                                 }
                             }
@@ -239,6 +270,10 @@
                         "segmentation-type": "canton",
                         "segmentation": "Montes de Oca",
                         "crime-type-ratings": {
+                            "vehicle-tag": {
+                                "2022": 151,
+                                "2023": 137
+                            }
                         },
                         "inner-segments": [
                             {
@@ -248,6 +283,10 @@
                                     "vehicle-theft": {
                                         "2022": 44,
                                         "2023": 61
+                                    },
+                                    "vehicle-tag": {
+                                        "2022": 111,
+                                        "2023": 110
                                     }
                                 }
                             }
@@ -277,6 +316,9 @@
                     },
                     "container-theft": {
                         "2023": 52
+                    },
+                    "vehicle-tag": {
+                        "2023": 455
                     }
                 },
                 "inner-segments": [
@@ -307,6 +349,10 @@
                             "container-theft": {
                                 "2022": 17,
                                 "2023": 23
+                            },
+                            "vehicle-tag": {
+                                "2022": 181,
+                                "2023": 226
                             }
                         },
                         "inner-segments": [
@@ -329,6 +375,10 @@
                                     "vehicle-theft": {
                                         "2022": 150,
                                         "2023": 180
+                                    },
+                                    "vehicle-tag": {
+                                        "2022": 76,
+                                        "2023": 100
                                     }
                                 }
                             },
@@ -373,6 +423,10 @@
                             "vehicle-theft": {
                                 "2022": 141,
                                 "2023": 152
+                            },
+                            "vehicle-tag": {
+                                "2022": 85,
+                                "2023": 90
                             }
                         },
                         "inner-segments": [
@@ -481,6 +535,9 @@
                     },
                     "container-theft": {
                         "2023": 18
+                    },
+                    "vehicle-tag": {
+                        "2023": 207
                     }
                 },
                 "inner-segments": [
@@ -661,6 +718,24 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Talamanca",
+                        "crime-type-ratings": {
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Curridabat",
+                                "crime-type-ratings": {
+                                    "vehicle-tag": {
+                                        "2022": 89,
+                                        "2023": 65
+                                    }
+                                }
+                            }
+                        ]
                     }
                 ]
             },
@@ -686,6 +761,9 @@
                     },
                     "container-theft": {
                         "2023": 8
+                    },
+                    "vehicle-tag": {
+                        "2023": 244
                     }
                 },
                 "inner-segments": [
@@ -704,6 +782,10 @@
                             "vehicle-theft": {
                                 "2022": 173,
                                 "2023": 170
+                            },
+                            "vehicle-tag": {
+                                "2022": 162,
+                                "2023": 112
                             }
                         },
                         "inner-segments": [
@@ -761,6 +843,9 @@
                     },
                     "container-theft": {
                         "2023": 0
+                    },
+                    "vehicle-tag": {
+                        "2023": 274
                     }
                 },
                 "inner-segments": [
@@ -779,6 +864,10 @@
                             "vehicle-theft": {
                                 "2022": 121,
                                 "2023": 154
+                            },
+                            "vehicle-tag": {
+                                "2022": 87,
+                                "2023": 136
                             }
                         }
                     },
@@ -816,6 +905,9 @@
                     },
                     "container-theft": {
                         "2023": 34
+                    },
+                    "vehicle-tag": {
+                        "2023": 531
                     }
 
                 },
@@ -847,6 +939,10 @@
                             "container-theft": {
                                 "2022": 8,
                                 "2023": 7
+                            },
+                            "vehicle-tag": {
+                                "2022": 82,
+                                "2023": 100
                             }
                         }
                     },
@@ -880,6 +976,10 @@
                         "segmentation-type": "canton",
                         "segmentation": "Quepos",
                         "crime-type-ratings": {
+                            "vehicle-tag": {
+                                "2022": 78,
+                                "2023": 128
+                            }
                         },
                         "inner-segments": [
                             {
@@ -893,6 +993,10 @@
                                     "housing-theft": {
                                         "2022": 80,
                                         "2023": 72
+                                    },
+                                    "vehicle-tag": {
+                                        "2022": 57,
+                                        "2023": 115
                                     }
                                 }
                             }
@@ -969,8 +1073,24 @@
                             "container-theft": {
                                 "2022": 1,
                                 "2023": 5
+                            },
+                            "vehicle-tag": {
+                                "2022": 118,
+                                "2023": 174
                             }
-                        }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Jacó",
+                                "crime-type-ratings": {
+                                    "vehicle-tag": {
+                                        "2022": 103,
+                                        "2023": 144
+                                    }
+                                }
+                            }
+                        ]
                     },
                     {
                         "segmentation-type": "canton",
@@ -1018,6 +1138,9 @@
                     },
                     "container-theft": {
                         "2023": 7
+                    },
+                    "vehicle-tag": {
+                        "2023": 241
                     }
                 },
                 "inner-segments": [
