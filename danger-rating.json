@@ -4,7 +4,6 @@
         "segmentation": "Costa Rica",
         "crime-type-ratings": {},
         "inner-segments": [
-            //San Jose
             {
                 "segmentation-type": "province",
                 "segmentation": "San José",
@@ -38,6 +37,9 @@
                     },
                     "frauds": {
                         "2023": 9352
+                    },
+                    "homicide": {
+                        "2023": 220
                     }
                 },
                 "inner-segments": [
@@ -76,6 +78,10 @@
                             "frauds": {
                                 "2022": 2887,
                                 "2023": 2999
+                            },
+                            "homicide": {
+                                "2022": 50,
+                                "2023": 83
                             }
                         },
                         "inner-segments": [
@@ -186,6 +192,10 @@
                                     "frauds": {
                                         "2022": 353,
                                         "2023": 346
+                                    },
+                                    "homicide": {
+                                        "2022": 11,
+                                        "2023": 24
                                     }
                                 }
                             },
@@ -234,6 +244,10 @@
                             "frauds": {
                                 "2022": 926,
                                 "2023": 883
+                            },
+                            "homicide": {
+                                "2022": 8,
+                                "2023": 26
                             }
                         },
                         "inner-segments": [
@@ -269,7 +283,19 @@
                                 "2022": 585,
                                 "2023": 515
                             }
-                        }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Curridabat",
+                                "crime-type-ratings": {
+                                    "homicide": {
+                                        "2022": 8,
+                                        "2023": 14
+                                    }
+                                }
+                            }
+                        ]
                     },
                     {
                         "segmentation-type": "canton",
@@ -364,10 +390,19 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Alajuelita",
+                        "crime-type-ratings": {
+                            "homicide": {
+                                "2022": 5,
+                                "2023": 23
+                            }
+                        }
                     }
                 ]
             },
-            //Alajuela
             {
                 "segmentation-type": "province",
                 "segmentation": "Alajuela",
@@ -401,6 +436,9 @@
                     },
                     "frauds": {
                         "2023": 4078
+                    },
+                    "homicide": {
+                        "2023": 103
                     }
                 },
                 "inner-segments": [
@@ -443,6 +481,10 @@
                             "frauds": {
                                 "2022": 1383,
                                 "2023": 1464
+                            },
+                            "homicide": {
+                                "2022": 45,
+                                "2023": 44
                             }
                         },
                         "inner-segments": [
@@ -732,7 +774,6 @@
                     }
                 ]
             },
-            //Limon
             {
                 "segmentation-type": "province",
                 "segmentation": "Limón",
@@ -766,6 +807,9 @@
                     },
                     "frauds": {
                         "2023": 1186
+                    },
+                    "homicide": {
+                        "2023": 213
                     }
                 },
                 "inner-segments": [
@@ -796,6 +840,10 @@
                             "container-theft": {
                                 "2022": 19,
                                 "2023": 9
+                            },
+                            "homicide": {
+                                "2022": 63,
+                                "2023": 91
                             }
                         },
                         "inner-segments": [
@@ -826,6 +874,10 @@
                                     "theft": {
                                         "2022": 234,
                                         "2023": 253
+                                    },
+                                    "homicide": {
+                                        "2022": 57,
+                                        "2023": 79
                                     }
                                 }
                             },
@@ -872,6 +924,10 @@
                             "cattle-theft": {
                                 "2022": 63,
                                 "2023": 50
+                            },
+                            "homicide": {
+                                "2022": 44,
+                                "2023": 31
                             }
                         },
                         "inner-segments": [
@@ -948,6 +1004,10 @@
                             "housing-assault": {
                                 "2022": 30,
                                 "2023": 18
+                            },
+                            "homicide": {
+                                "2022": 25,
+                                "2023": 50
                             }
                         },
                         "inner-segments": [
@@ -958,6 +1018,20 @@
                                     "housing-assault": {
                                         "2022": 8,
                                         "2023": 8
+                                    },
+                                    "homicide": {
+                                        "2022": 13,
+                                        "2023": 22
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Carrandi",
+                                "crime-type-ratings": {
+                                    "homicide": {
+                                        "2022": 6,
+                                        "2023": 16
                                     }
                                 }
                             }
@@ -983,7 +1057,6 @@
                     }
                 ]
             },
-            //Heredia
             {
                 "segmentation-type": "province",
                 "segmentation": "Heredia",
@@ -1017,6 +1090,9 @@
                     },
                     "frauds": {
                         "2023": 2954
+                    },
+                    "homicide": {
+                        "2023": 47
                     }
                 },
                 "inner-segments": [
@@ -1094,7 +1170,6 @@
                     }
                 ]
             },
-            //Cartago
             {
                 "segmentation-type": "province",
                 "segmentation": "Cartago",
@@ -1128,6 +1203,9 @@
                     },
                     "frauds": {
                         "2023": 2128
+                    },
+                    "homicide": {
+                        "2023": 72
                     }
                 },
                 "inner-segments": [
@@ -1187,7 +1265,6 @@
                     }
                 ]
             },
-            //Puntarenas
             {
                 "segmentation-type": "province",
                 "segmentation": "Puntarenas",
@@ -1221,6 +1298,9 @@
                     },
                     "frauds": {
                         "2023": 1652
+                    },
+                    "homicide": {
+                        "2023": 150
                     }
 
                 },
@@ -1260,8 +1340,44 @@
                             "theft": {
                                 "2022": 598,
                                 "2023": 495
+                            },
+                            "homicide": {
+                                "2022": 44,
+                                "2023": 68
                             }
-                        }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Barranca",
+                                "crime-type-ratings": {
+                                    "homicide": {
+                                        "2022": 10,
+                                        "2023": 26
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Chacarita",
+                                "crime-type-ratings": {
+                                    "housing-assault": {
+                                        "2022": 23,
+                                        "2023": 20
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "El Roble",
+                                "crime-type-ratings": {
+                                    "homicide": {
+                                        "2022": 6,
+                                        "2023": 16
+                                    }
+                                }
+                            }
+                        ]
                     },
                     {
                         "segmentation-type": "canton",
@@ -1284,6 +1400,10 @@
                                     "building-theft": {
                                         "2022": 36,
                                         "2023": 52
+                                    },
+                                    "homicide": {
+                                        "2022": 5,
+                                        "2023": 17
                                     }
                                 }
                             }
@@ -1314,6 +1434,10 @@
                                     "vehicle-tag": {
                                         "2022": 57,
                                         "2023": 115
+                                    },
+                                    "homicide": {
+                                        "2022": 2,
+                                        "2023": 14
                                     }
                                 }
                             }
@@ -1459,7 +1583,6 @@
                     }
                 ]
             },
-            //Guanacaste
             {
                 "segmentation-type": "province",
                 "segmentation": "Guanacaste",
@@ -1493,6 +1616,9 @@
                     },
                     "frauds": {
                         "2023": 1692
+                    },
+                    "homicide": {
+                        "2023": 100
                     }
                 },
                 "inner-segments": [
@@ -1569,6 +1695,10 @@
                             "theft": {
                                 "2022": 450,
                                 "2023": 465
+                            },
+                            "homicide": {
+                                "2022": 15,
+                                "2023": 24
                             }
                         }
                     },
@@ -1576,6 +1706,10 @@
                         "segmentation-type": "canton",
                         "segmentation": "Nicoya",
                         "crime-type-ratings": {
+                            "homicide": {
+                                "2022": 9,
+                                "2023": 28
+                            }
                         },
                         "inner-segments": [
                             {
