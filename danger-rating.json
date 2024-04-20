@@ -32,6 +32,9 @@
                     },
                     "theft": {
                         "2023": 6224
+                    },
+                    "cattle-theft": {
+                        "2023": 71
                     }
                 },
                 "inner-segments": [
@@ -353,6 +356,9 @@
                     },
                     "theft": {
                         "2023": 2293
+                    },
+                    "cattle-theft": {
+                        "2023": 238
                     }
                 },
                 "inner-segments": [
@@ -473,6 +479,10 @@
                             "theft": {
                                 "2022": 564,
                                 "2023": 511
+                            },
+                            "cattle-theft": {
+                                "2022": 48,
+                                "2023": 62
                             }
                         },
                         "inner-segments": [
@@ -487,6 +497,16 @@
                                     "building-theft": {
                                         "2022": 112,
                                         "2023": 87
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Pocosol",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 8,
+                                        "2023": 14
                                     }
                                 }
                             }
@@ -555,8 +575,103 @@
                                 "2023": 4
                             }
                         }
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Upala",
+                        "crime-type-ratings": {
+                            "cattle-theft": {
+                                "2022": 70,
+                                "2023": 63
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Upala",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 17,
+                                        "2023": 14
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "canton",
+                                "segmentation": "San José",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 16,
+                                        "2023": 18
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "canton",
+                                "segmentation": "Pizote",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 16,
+                                        "2023": 18
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Sarapiquí",
+                        "crime-type-ratings": {
+                            "cattle-theft": {
+                                "2022": 56,
+                                "2023": 52
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Puerto Viejo",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 22,
+                                        "2023": 25
+                                    }
+                                }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Horquetas",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 16,
+                                        "2023": 16
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Los Chiles",
+                        "crime-type-ratings": {
+                            "cattle-theft": {
+                                "2022": 23,
+                                "2023": 27
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "los chiles",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 10,
+                                        "2023": 13
+                                    }
+                                }
+                            }
+                        ]
                     }
-                    
                 ]
             },
             //Limon
@@ -587,6 +702,9 @@
                     },
                     "theft": {
                         "2023": 1331
+                    },
+                    "cattle-theft": {
+                        "2023": 112
                     }
                 },
                 "inner-segments": [
@@ -689,6 +807,10 @@
                             "theft": {
                                 "2022": 461,
                                 "2023": 354
+                            },
+                            "cattle-theft": {
+                                "2022": 63,
+                                "2023": 50
                             }
                         },
                         "inner-segments": [
@@ -709,6 +831,10 @@
                                     "housing-assault": {
                                         "2022": 7,
                                         "2023": 7
+                                    },
+                                    "cattle-theft": {
+                                        "2022": 23,
+                                        "2023": 17
                                     }
                                 } 
                             },
@@ -824,6 +950,9 @@
                     },
                     "theft": {
                         "2023": 1551
+                    },
+                    "cattle-theft": {
+                        "2023": 60
                     }
                 },
                 "inner-segments": [
@@ -917,6 +1046,9 @@
                     },
                     "theft": {
                         "2023": 1002
+                    },
+                    "cattle-theft": {
+                        "2023": 57
                     }
                 },
                 "inner-segments": [
@@ -955,6 +1087,16 @@
                                 "2023": 199
                             }
                         }
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Oreamuno",
+                        "crime-type-ratings": {
+                            "cattle-theft": {
+                                "2022": 13,
+                                "2023": 26
+                            }
+                        }
                     }
                 ]
             },
@@ -986,6 +1128,9 @@
                     },
                     "theft": {
                         "2023": 2018
+                    },
+                    "cattle-theft": {
+                        "2023": 127
                     }
 
                 },
@@ -1199,6 +1344,28 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Buenos Aires",
+                        "crime-type-ratings": {
+                            "cattle-theft": {
+                                "2022": 30,
+                                "2023": 40
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Curridabat",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 13,
+                                        "2023": 11
+                                    }
+                                }
+                            }
+                        ]
                     }
                 ]
             },
@@ -1230,6 +1397,9 @@
                     },
                     "theft": {
                         "2023": 1706
+                    },
+                    "cattle-theft": {
+                        "2023": 200
                     }
                 },
                 "inner-segments": [
@@ -1320,8 +1490,72 @@
                                         "2023": 53
                                     }
                                 }
+                            },
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Curridabat",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 19,
+                                        "2023": 11
+                                    }
+                                }
                             }
                         ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Bagaces",
+                        "crime-type-ratings": {
+                            "cattle-theft": {
+                                "2022": 23,
+                                "2023": 35
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Bagaces",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 11,
+                                        "2023": 22
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Cañas",
+                        "crime-type-ratings": {
+                            "cattle-theft": {
+                                "2022": 35,
+                                "2023": 33
+                            }
+                        },
+                        "inner-segments": [
+                            {
+                                "segmentation-type": "district",
+                                "segmentation": "Cañas",
+                                "crime-type-ratings": {
+                                    "cattle-theft": {
+                                        "2022": 21,
+                                        "2023": 12
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "segmentation-type": "canton",
+                        "segmentation": "Tilarán",
+                        "crime-type-ratings": {
+                            "cattle-theft": {
+                                "2022": 26,
+                                "2023": 25
+                            }
+                        }
                     }
                 ]
             }
