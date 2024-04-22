@@ -287,7 +287,7 @@
                         "inner-segments": [
                             {
                                 "segmentation-type": "district",
-                                "segmentation": "Curridabat",
+                                "segmentation": "Purral",
                                 "crime-type-ratings": {
                                     "homicide": {
                                         "2022": 8,
@@ -1571,7 +1571,7 @@
                         "inner-segments": [
                             {
                                 "segmentation-type": "district",
-                                "segmentation": "Curridabat",
+                                "segmentation": "Potrero Grande",
                                 "crime-type-ratings": {
                                     "cattle-theft": {
                                         "2022": 13,
@@ -1728,7 +1728,7 @@
                             },
                             {
                                 "segmentation-type": "district",
-                                "segmentation": "Curridabat",
+                                "segmentation": "San Antonio",
                                 "crime-type-ratings": {
                                     "cattle-theft": {
                                         "2022": 19,
